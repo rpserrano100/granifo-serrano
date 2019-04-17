@@ -1,37 +1,37 @@
 // PRIMERO CREAMOS UNA VARIABLE QUE CONTIENE TODOS LOS DATOS DE TUS TRABAJOS
 var trabajos = [
 {
-    figure: "media/Antiescoreación.png",
-    title: "Lorem ipsum 01",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/Antiescoreación-min.png",
+    title: "Philodry",
+    about: "Primera capa antiexcoreación que protege e invita a hacer actividad física.",
 }, {
-    figure: "media/Cooktent.png",
-    title: "Lorem ipsum 02",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/Cooktent-min.png",
+    title: "Cooktent",
+    about: "Cocinilla de inducción para camping, recargable en el auto.",
 }, {
-    figure: "media/Giffy.png",
-    title: "Lorem ipsum 03",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/Giffy-min.png",
+    title: "Giffy",
+    about: "Aplicación para encontrar el regalo perfecto.",
 }, {
-    figure: "media/Kporte.png",
-    title: "Lorem ipsum 04",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/Kporte-min.png",
+    title: "Kporte",
+    about: "Arnés especializado en distibuir correctamente el peso al transportar carretillas.",
 }, {
-    figure: "media/recreación.jpg",
-    title: "Lorem ipsum 05",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/recreación-min.png",
+    title: "Cocreación",
+    about: "Rediseño de la marca de una emprendedora textil.",
 }, {
-    figure: "media/IMG_0415.jpg",
-    title: "Lorem ipsum 05",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/chinchillas-min.png",
+    title: "Adaptación",
+    about: "Estructura diseñada para lograr la integración de chinchillas al zoológico.",
 }, {
-    figure: "media/IMG_0416.jpg",
-    title: "Lorem ipsum 05",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/Pakta-min.png",
+    title: "Pakta",
+    about: "Tablas de sal para sazonar carnes en la parrilla.",
 }, {
-    figure: "media/IMG_0417.jpg",
-    title: "Lorem ipsum 05",
-    about: "Nulla pretium non sapien eget fermentum",
+    figure: "media/Luminaria.png",
+    title: "Luminaria",
+    about: "Lámparas a crochet para ser utilizadas como espantacucos con el celular.",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE

@@ -21,11 +21,12 @@ h1{
 	font-size:3rem;
 	font-weight:700;
 	letter-spacing:0.1em;
-	color:rgba(255,255,255,0.9);
+	color:rgba(153,57,80,1);
 	text-align:center;
 }
 
 h2{
+	font-family: 'Montserrat', sans-serif;
 	font-size:2rem;
 	font-weight:300;
 	letter-spacing:0.1em;
@@ -93,9 +94,9 @@ video{
 	background-repeat:no-repeat;
 	background-size:auto 100%;
 }
-.primera h4{padding: 2% 40% 1% 2%; color:rgba(47,132,149,1);}
+.primera h4{padding: 2% 40% 1% 2%; color:rgba(47,132,149,1); letter-spacing:0.25em;}
 
-.primera h5{font-weight:300; padding: 1% 40% 2% 2%; margin-bottom:5em; letter-spacing:0.1em;}
+.primera h5{font-family: 'Montserrat', sans-serif; font-weight:300; padding: 1% 40% 2% 2%; margin-bottom:5em; letter-spacing:0.1em;}
 
 .primera p{font-weight:700; padding: 2% 40% 2% 2%;}
 
@@ -111,9 +112,9 @@ video{
 	background-size:auto 100%;
 }
 
-.segunda h4{padding: 2% 2% 1% 40%; color:rgba(47,132,149,1);}
+.segunda h4{padding: 2% 2% 1% 40%; color:rgba(47,132,149,1); letter-spacing:0.25em;}
 
-.segunda h5{font-weight:300; padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;}
+.segunda h5{font-family: 'Montserrat', sans-serif; font-weight:300; padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;}
 
 .segunda p{font-weight:700; padding: 2% 2% 2% 40%;}
 
@@ -160,12 +161,14 @@ video{
 }
 
 .item h4{
+	color:rgba(47,132,149,1);
 	font-size:1em;
-	letter-spacing:0.025em;
+	letter-spacing:0.25em;
 	margin:5% 5% 3% 5%;
 }
 
 .item p{
+	font-family: 'Montserrat', sans-serif;
 	font-size:0.875em;
 	letter-spacing:0.05em;
 	margin:2% 5% 6% 5%;
